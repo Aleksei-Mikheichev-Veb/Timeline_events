@@ -8,7 +8,7 @@ Timeline Events — это React-приложение с использован�
 
 ## Скриншот
 
-![Timeline Events Screenshot](file:///C:/Users/Tom/Desktop/Screenshot.png)
+![Timeline Events Screenshot](https://github.com/user-attachments/assets/d3d492c2-9dc9-4265-a37f-3a1a3935944b)
 
 ## Возможности
 
